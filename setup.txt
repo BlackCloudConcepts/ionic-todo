@@ -1,0 +1,9 @@
+Tutorial
+============
+http://ionicframework.com/docs/v2/getting-started/installation/
+
+
+Issues
+============
+Can't find ionic keyword.  Specify entire path to file.
+/Users/[user]/.npm-packages/lib/node_modules/ionic/bin/ionic start [project_name] --v2
