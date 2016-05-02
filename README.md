@@ -1,1 +1,1 @@
-# ionic-todo
+# Ionic 2 - ToDo App
